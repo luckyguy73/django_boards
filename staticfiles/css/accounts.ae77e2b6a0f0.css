@@ -1,0 +1,17 @@
+body {
+  background-image: url("../img/terrazzo.374344147cff.png");
+}
+
+.logo {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.logo a:active, .logo a:visited, .logo a:link {
+  color: rgba(0,0,0,.9);
+}
+
+.logo a:hover,
+.logo a:active {
+    color: #005cbf;
+  text-decoration: none;
+}

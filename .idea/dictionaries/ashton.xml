@@ -5,10 +5,12 @@
       <w>csrfmiddlewaretoken</w>
       <w>forloop</w>
       <w>gravatar</w>
+      <w>gunicorn</w>
       <w>navbar</w>
       <w>simplemde</w>
       <w>testserver</w>
       <w>toggler</w>
+      <w>whitenoise</w>
     </words>
   </dictionary>
 </component>
