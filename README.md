@@ -5,9 +5,6 @@
 
 Code samples from the Django tutorial series.
 
-![Django Boards Screenshot](https://d26dzxoao6i3hh.cloudfront.net/items/0j1J2s300f1b2y1Y3p3k/django-boards.png?v=3ec9d7f5)
-
-
 ## Table of Contents
 
 * [Part 1 - Getting Started](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
